@@ -40,10 +40,7 @@ collections.Counter → for comparing guessed letters (optional in some versions
 1. Save the source file hangman.py
 in your project folder.
 2. Open a terminal or command prompt in that folder.
-Run the game using: https://github.com/Bhoyar3/Hangman-Game/blob/main/hangman_game.py python hangman.py
-Save the source file **[hangman.py](./hangman.py)** in your project folder.
-
-
+3. Save the source file **[hangman.py](./hangman_game.py)** in your project folder.
 3. Guess one letter at a time (or try the full word).
 4. You win if you guess all the letters before running out of chances!
 
