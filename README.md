@@ -37,6 +37,14 @@ random → for selecting a random word
 
 collections.Counter → for comparing guessed letters (optional in some versions)
 # How to run
+Save the source file hangman.py
+in your project folder.
+Open a terminal or command prompt in that folder.
+Run the game using:
 
-git clone https://github.com/Bhoyar3/hangman-game.git
+python hangman.py
+
+
+Guess one letter at a time (or try the full word).
+You win if you guess all the letters before running out of chances!
 
