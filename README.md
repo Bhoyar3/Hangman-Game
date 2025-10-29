@@ -13,7 +13,7 @@ Validates user input to prevent repeated or invalid letters.
 Displays current progress after every guess.
 Announces win or loss based on remaining chances.
 
-# What You’ll Learn
+# What You’ll cover
 
 Through this project, you’ll practice key Python concepts:
 
@@ -36,4 +36,7 @@ Libraries:
 random → for selecting a random word
 
 collections.Counter → for comparing guessed letters (optional in some versions)
+# How to run
+
+git clone https://github.com/Bhoyar3/hangman-game.git
 
