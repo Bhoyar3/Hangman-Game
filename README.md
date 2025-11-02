@@ -1,8 +1,7 @@
 # Project Overview
 
-The Hangman Game is a classic word-guessing challenge built using Python.
+The Hangman Game is a classic **word-guessing** challenge built using Python.
 The program randomly selects a fruit name, and the player must guess the letters within a limited number of chances.
-This beginner-friendly project strengthens concepts like loops, conditionals, string handling, and user input validation, while providing a fun way to practice logical thinking.
 
 # Features
 
